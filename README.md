@@ -1,4 +1,9 @@
 # Ughost Software Center
+![version](https://img.shields.io/badge/version-0.0.1--Beta-orange)
+![platform](https://img.shields.io/badge/platform-GNU%2FLinux-blue)
+![python](https://img.shields.io/badge/python-3-yellow)
+![license](https://img.shields.io/badge/license-GPLv3-blue)
+![toolkit](https://img.shields.io/badge/GUI-Qt6%20(PySide6)-green)
 
 ![Apps](ughost/0.png)
 
